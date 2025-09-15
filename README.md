@@ -69,7 +69,7 @@ python test.py --pretrained_path ./checkpoint/model.pt --task_type VIF --dirA ./
 ## 🔥 Train 
 
 #### Step1: Pretrained models and training data
-We provide the [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) dataset for training. Please download it from the official [DIV2K Website](https://data.vision.ee.ethz.ch/cvl/DIV2K/), structured as follows:
+Please download DIV2K dataset from the official [DIV2K Website](https://data.vision.ee.ethz.ch/cvl/DIV2K/), structured as follows:
 ```
 /dataset/DIV2K/
         ├── train/       
