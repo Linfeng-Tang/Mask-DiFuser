@@ -46,7 +46,7 @@
 ## ⚙️ Installation
 
 ```
-## git clone this repository
+# git clone this repository
 git clone https://github.com/Linfeng-Tang/Mask-DiFuser.git
 cd Mask-DiFuser
 
