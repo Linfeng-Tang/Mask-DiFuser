@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-    [Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion](https://ieeexplore.ieee.org/document/11162636)
+    <a href="https://ieeexplore.ieee.org/document/11162636" target="_blank">Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion</a>
     </h1>
     <div>
         <a href='https://github.com/Linfeng-Tang' target='_blank'>Linfeng Tang<sup>1*</sup></a>,&emsp;
