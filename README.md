@@ -101,7 +101,7 @@ torchrun --nproc-per-node=4 train.py --dataset_path ./dataset/DIV2K --output_pat
 ## 🎓 Citations
 If our work is useful for your research, please consider citing and give us a star ⭐:
 ```
-@ARTICLE{11162636,
+@article{Tang2024Mask-DiFuser,
   author={Tang, Linfeng and Li, Chunyu and Ma, Jiayi},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion}, 
@@ -109,8 +109,8 @@ If our work is useful for your research, please consider citing and give us a st
   volume={},
   number={},
   pages={1-18},
-  keywords={Image fusion;Diffusion models;Feature extraction;Context modeling;Loss measurement;Semantics;Image reconstruction;Training;Visualization;Adaptation models;Image fusion;unified model;masked image modeling;diffusion model},
-  doi={10.1109/TPAMI.2025.3609323}}
+ }
+
 
 ```
 
