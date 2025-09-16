@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## 🚀 Inference
 
-#### Step 1: Download the pretrained model Mask-DiFuser from [Baidu Drive](https://pan.baidu.com/s/1KFr3F-pPsUB0DfK5XpjmeA?pwd=8888), and put the weight into `checkpoint/`.
+#### Step 1: Download the pretrained model Mask-DiFuser from [Baidu Drive](https://pan.baidu.com/s/1KFr3F-pPsUB0DfK5XpjmeA?pwd=8888) or [Google Drive](https://drive.google.com/file/d/1V_P8qgZHnXuMNvgJrnCZcbQGVAPWeKcy/view?usp=drive_link), and put the weight into `checkpoint/`.
 
 #### Step 2: Running inference command
 ```
