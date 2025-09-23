@@ -8,7 +8,7 @@
         <a href='https://sites.google.com/site/jiayima2013' target='_blank'>Jiayi Ma<sup>&#8224</sup></a>
     </div>
     <div>
-        <sup></sup>Wuhan University&emsp;
+        <sup></sup>Wuhan University&emsp; <br>
         <sup>*</sup>Equal Contribution &emsp; <sup>&#8224;</sup>Corresponding Author
     </div>
     <br>
