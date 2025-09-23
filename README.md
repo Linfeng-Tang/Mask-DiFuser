@@ -9,6 +9,18 @@
     </div>
     <div>
         <sup></sup>Wuhan University&emsp;
+        <sup>*</sup>Equal Contribution &emsp; <sup>&#8224;</sup>Corresponding Author
+    </div>
+    <br>
+    <div style="text-decoration: none !important;">
+        <a href="https://github.com/Linfeng-Tang/Mask-DiFuser" target='_blank' style="text-decoration: none !important; border: none !important;">
+            <img src="https://img.shields.io/badge/🌟-Code-blue?style=for-the-badge&logo=github" alt="Code" style="border: none !important; box-shadow: none !important;">
+        </a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11162636" target='_blank' style="text-decoration: none !important; border: none !important;">
+            <img src="https://img.shields.io/badge/arXiv-2503.23356-b31b1b?style=for-the-badge&logo=arxiv" alt="Paper" style="border: none !important; box-shadow: none !important;">
+        </a>
+    </div>
+</div>
     </div>
     <!-- <div>
         <h4 align="center">
