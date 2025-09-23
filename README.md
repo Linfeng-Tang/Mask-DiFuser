@@ -38,13 +38,13 @@
 [2025-9-10] Our paper **"Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion"** has been **officially accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**! [[Paper Homepage](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
 
 ## 🔎 Method Overview
-### Various scheme Comparison
+### Various Scheme Comparison
 ![Mask-DiFuser](assets/conceptual.jpg)
 
 ### Framework
 ![Mask-DiFuser](assets/framework.jpg)
 
-### Dual-Mask Scheme
+### Vanilla masking scheme vs. our dual masking scheme.
 ![Mask-DiFuser](assets/Mask_Demo.jpg)
 
 
