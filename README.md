@@ -38,8 +38,13 @@
 [2025-9-10] Our paper **"Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion"** has been **officially accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**! [[Paper Homepage](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
 
 ## 🔎 Method Overview
+### Various scheme Comparison
 ![Mask-DiFuser](assets/conceptual.jpg)
+
+### Framework
 ![Mask-DiFuser](assets/framework.jpg)
+
+### Dual-Mask Scheme
 ![Mask-DiFuser](assets/Mask_Demo.jpg)
 
 
@@ -89,7 +94,28 @@ torchrun --nproc-per-node=4 train.py --dataset_path ./dataset/DIV2K --output_pat
 ```
 
 ## 📷 Results
-![Mask-DiFuser](assets/VIF1.jpg)![Mask-DiFuser1](assets/VIF3.jpg)![Mask-DiFuser2](assets/MEF1.jpg)![Mask-DiFuser3](assets/MEF2.jpg)![Mask-DiFuser4](assets/MIF.jpg)![Mask-DiFuser7](assets/Nir2.jpg)![Mask-DiFuser5](assets/Pol2.jpg)![Mask-DiFuser6](assets/MFF.jpg)
+### Visual comparison of infrared-visible image fusion results for night scenes on the MSRS dataset
+![Mask-DiFuser](assets/VIF1.jpg)
+### Visual comparison of infrared-visible image fusion results on the RoadScene dataset
+![Mask-DiFuser1](assets/VIF3.jpg)
+
+### Visual comparison of multi-exposure image fusion results on the SICE dataset
+![Mask-DiFuser2](assets/MEF1.jpg)
+
+### Visual comparison of multi-exposure image fusion results on the MEFB dataset
+![Mask-DiFuser3](assets/MEF2.jpg)
+
+### Visual comparison of medical image fusion results on the Harvard dataset
+![Mask-DiFuser4](assets/MIF.jpg)
+
+### Visual comparison of near-infrared and visible image fusion results on the Nirscene dataset
+![Mask-DiFuser7](assets/Nir2.jpg)
+
+### Visual comparison of multi-polarization fusion results on the Polarization dataset
+![Mask-DiFuser5](assets/Pol2.jpg)
+
+### Visual comparison of multi-focus image fusion results on the Lytro dataset
+![Mask-DiFuser6](assets/MFF.jpg)
 
 ## 🕵️‍♂️ Detection
 ![Mask-DiFuser](assets/Detection.jpg)
