@@ -137,15 +137,15 @@ torchrun --nproc-per-node=4 train.py --dataset_path ./dataset/DIV2K --output_pat
 ## 🎓 Citations
 If our work is useful for your research, please consider citing and give us a star ⭐:
 ```
-@article{Tang2024Mask-DiFuser,
+@article{Tang2026Mask-DiFuser,
   author={Tang, Linfeng and Li, Chunyu and Ma, Jiayi},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-18},
- }
+  year={2026},
+  volume={48},
+  number={1},
+  pages={591--608},
+}
 
 
 ```
