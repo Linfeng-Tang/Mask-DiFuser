@@ -2,6 +2,13 @@
     <h1>
     <a href="https://ieeexplore.ieee.org/document/11162636" target="_blank">Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion</a>
     </h1>
+
+<p align="center">
+  <a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/ESI_Highly_Cited_Paper-Top_1%25-2F6FB0?style=for-the-badge" alt="ESI Highly Cited Paper (top 1%)"></a>
+  <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar_Citations-51-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar citations"></a>
+</p>
+<p align="center"><sub>Google Scholar citation count updated July 18, 2026.</sub></p>
+
     <div>
         <a href='https://github.com/Linfeng-Tang' target='_blank'>Linfeng Tang<sup>1*</sup></a>,&emsp;
         <a href='https://github.com/licy2001' target='_blank'>Chunyu Li<sup>1*</sup></a>,&emsp;
