@@ -1,54 +1,9 @@
-<div align="center">
-    <h1>
-    <a href="https://ieeexplore.ieee.org/document/11162636" target="_blank">Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion</a>
-    </h1>
+<h1 align="center"><a href="https://ieeexplore.ieee.org/document/11162636">Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion</a></h1>
 
-<p align="center">
-  <a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/ESI_Highly_Cited_Paper-Top_1%25-2F6FB0?style=for-the-badge" alt="ESI Highly Cited Paper (top 1%)"></a>
-  <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar_Citations-51-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar citations"></a>
-</p>
-<p align="center"><sub>Google Scholar citation count updated July 18, 2026.</sub></p>
-
-    <div>
-        <a href='https://github.com/Linfeng-Tang' target='_blank'>Linfeng Tang<sup>1*</sup></a>,&emsp;
-        <a href='https://github.com/licy2001' target='_blank'>Chunyu Li<sup>1*</sup></a>,&emsp;
-        <a href='https://sites.google.com/site/jiayima2013' target='_blank'>Jiayi Ma<sup>&#8224</sup></a>
-    </div>
-    <div>
-        <sup></sup>Wuhan University&emsp; <br>
-        <sup>*</sup>Equal Contribution &emsp; <sup>&#8224;</sup>Corresponding Author
-    </div>
-    <br>
-    <!-- <div style="text-decoration: none !important;">
-        <a href="https://github.com/Linfeng-Tang/Mask-DiFuser" target='_blank' style="text-decoration: none !important; border: none !important;">
-            <img src="https://img.shields.io/badge/🌟-Code-blue?style=for-the-badge&logo=github" alt="Code" style="border: none !important; box-shadow: none !important;">
-        </a>
-       <a href="https://ieeexplore.ieee.org/abstract/document/11162636" target='_blank' style="text-decoration: none !important; border: none !important;">Paper</a>
-    </div> -->
-</div>
-    </div>
-    <!-- <div>
-        <h4 align="center">
-            <a href="https://nju-pcalab.github.io/projects/STAR" target='_blank'>
-                <img src="https://img.shields.io/badge/🌟-Project%20Page-blue" style="padding-right: 20px;">
-            </a>
-            <a href="https://arxiv.org/abs/2501.02976" target='_blank'>
-                <img src="https://img.shields.io/badge/arXiv-2501.02976-b31b1b.svg" style="padding-right: 20px;">
-            </a>
-            <a href="https://youtu.be/hx0zrql-SrU" target='_blank'>
-                <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white" style="padding-right: 20px;">
-            </a>
-            <br>
-            <a href="https://huggingface.co/spaces/SherryX/STAR" target='_blank'>
-                <img src="https://img.shields.io/static/v1?label=Demo STAR&message=HuggingFace&color=yellow">
-            </a>
-            <a href="https://colab.research.google.com/drive/1K8A1U_BNpAteRhhW9A8pAYs6LWjItQs_?usp=sharing" target='_blank'>
-                <img src="https://img.shields.io/static/v1?label=Demo STAR&message=Google Colab&color=orange">
-            </a>
-        </h4>
-    </div> -->
-</div>
-
+<p align="center"><a href="https://github.com/Linfeng-Tang">Linfeng Tang<sup>1,*</sup></a>&emsp; <a href="https://github.com/licy2001">Chunyu Li<sup>1,*</sup></a>&emsp; <a href="https://sites.google.com/site/jiayima2013">Jiayi Ma<sup>1,&#8224;</sup></a></p>
+<p align="center"><strong><sup>1</sup>Wuhan University</strong><br><sup>*</sup>Equal Contribution&emsp; <sup>&#8224;</sup>Corresponding Author</p>
+<p align="center"><strong>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</strong> &middot; 2026</p>
+<p align="center"><a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/%F0%9F%8F%86_ESI_Highly_Cited-Top_1%25-D4A017?style=flat-square" alt="ESI Highly Cited Paper (top 1%)"></a><br><sub><a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=en">Google Scholar &middot; <strong>51 citations</strong></a> &middot; updated July 18, 2026</sub></p>
 
 ## ✨ News:
 - **[2026-06-02]** Our paper *[DSPFusion: Image Fusion via Degradation and Semantic Dual-Prior Guidance](https://doi.org/10.1109/TIP.2026.3700938)* has been officially accepted by **IEEE Transactions on Image Processing (IEEE TIP)**! [[Paper](https://doi.org/10.1109/TIP.2026.3700938)] [[arXiv](https://arxiv.org/abs/2503.23355)] [[Code](https://github.com/Linfeng-Tang/DSPFusion)]
